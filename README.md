@@ -5,7 +5,7 @@ Then Scan all group messages to find any phone numbers in the texts.
 
 __This is a small part of big project with a CLI bot that made by python and pyrogram and maybe update later!__
 
-#### ⚠️⚠️ **The consequences of misuse are your own** ⚠️⚠️
+##### **The consequences of misuse are your own** ⚠️
 
 ### 🚀 Automatic Download
 Clone this repository with this command
