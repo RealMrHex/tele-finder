@@ -81,6 +81,7 @@ If you discover any security related issues, please email `hex@kaqaz.studio` ins
 
 - [Armin Hooshmand](https://github.com/realmrhex) ([CV](https://hex.kaqaz.studio))
 - [Kaqaz Studio Corp](https://github.com/kaqazstudio) ([Website](https://kaqaz.studio))
+- Special tnx to Negar ❤️
 - [All Contributors](../../contributors)
 
 ### License
